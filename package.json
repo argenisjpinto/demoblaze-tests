@@ -1,0 +1,22 @@
+{
+  "name": "demoblaze-tests",
+  "version": "1.0.0",
+  "description": "Test Demoblaze",
+  "main": "index.js",
+  "scripts": {
+    "test": "test",
+    "cypress:open": "cypress open"
+  },
+  "keywords": [
+    "test",
+    "e2e",
+    "cypress",
+    "demoblaze"
+  ],
+  "author": "Argenis Pinto",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^13.7.1",
+    "typescript": "^5.4.3"
+  }
+}
